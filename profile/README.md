@@ -59,6 +59,6 @@
 - (근거: `sarangbang-backend/README.md`, `sarangbang-frontend/README.md`)
 
 ## 🔗 Links
-- **Backend**: [sarangbang-backend](https://github.com/ilsimdongne/backend)
-- **Frontend**: [sarangbang-frontend](https://github.com/ilsimdongne/frontend)
+- **Backend**: [backend](https://github.com/ilsimdongne/backend)
+- **Frontend**: [frontend](https://github.com/ilsimdongne/frontend)
 - **발표자료**: [프로젝트 발표 PDF](./assets/project-overview.pdf)
