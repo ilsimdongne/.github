@@ -56,8 +56,6 @@
   </tbody>
 </table>
 
-- (근거: `sarangbang-backend/README.md`, `sarangbang-frontend/README.md`)
-
 ## 🔗 Links
 - **Backend**: [backend](https://github.com/ilsimdongne/backend)
 - **Frontend**: [frontend](https://github.com/ilsimdongne/frontend)
